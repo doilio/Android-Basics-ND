@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Gianni</string>
+    <string name="gianni_ice_cream_parlor">Gianni Ice Cream Parlor</string>
+    <string name="gianni_store_image">Gianni Store Image</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="polana_shopping_center_av_24_de_julho_maputo">Polana Shopping Center, Av. 24 de Julho, Maputo</string>
+    <string name="working_hours_icon">Working Hours Icon</string>
+    <string name="_7am_10pm">7AM - 10PM</string>
+    <string name="phone_number_icon">Phone Number Icon</string>
+    <string name="_258_82_124_8870">+258 82 124 8870</string>
+    <string name="website_icon">Website Icon</string>
+    <string name="description">Description</string>
+    <string name="description_text">On February 21, 2004, Sorveteria Gianni opened at Polana Shopping Center in the city center. In the past almost 10 years, it has become the most famous ice cream shop in Mozambique, producing its ice cream by hand and using the best national products. Its flavors are made from the freshest flavors and of the highest quality in the making of ice cream, but also from cones, baskets, crepes and waffles and everything we carefully offer to our dearest, our customers. Meanwhile, Gianni has grown and now has 2 own stores and an independent production area, also deserving of the trust of several restaurants, hotels and other establishments that have become sales points for our products. The store is modern and, at the same time, welcoming, we will have a wide terrace outside the store of Polana Shopping, which will be to the liking of the little ones and parents certainly. Inside, the decor is modern and colorful. In 2008, we opened our store at Maputo Shopping Center MBS.</string>
+    <string name="http_www_gianni_co_mz" translatable="false">http://www.gianni.co.mz/</string>
+</resources>
