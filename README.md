@@ -28,3 +28,15 @@ If you have trouble choosing, here are some suggestions:
 
     
 ![device-2020-03-26-030659](https://user-images.githubusercontent.com/38020305/77600098-7cf75d00-6f0f-11ea-93cd-096f74429d65.png)
+
+## Project 3: [Quizz App](https://github.com/doilio/Android-Basics-ND/tree/master/QuizApp)   
+## Project Overview
+ > The Quiz App project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making your own Android app - taking it from the idea stage to building out the full app. You can share your app with family and friends, as well as with other students in this course.
+ ## Requirements
+Per the rubric, we require a minimum of:
+* 4 questions and a maximum of 10 quiz questions for a proper app submission
+* App containing 4 - 10 questions, including at least one check box, one radio button, and one text entry.
+    
+![device-2020-03-26-161226](https://user-images.githubusercontent.com/38020305/77658340-3b05ff80-6f7f-11ea-9ea5-c4258e09ca01.png)
+![device-2020-03-26-161325](https://user-images.githubusercontent.com/38020305/77658365-45c09480-6f7f-11ea-8da8-e3ee3ee17d1b.png)
+![quizapp](https://user-images.githubusercontent.com/38020305/77658301-2d507a00-6f7f-11ea-94d1-11ed86e95ce4.gif)
