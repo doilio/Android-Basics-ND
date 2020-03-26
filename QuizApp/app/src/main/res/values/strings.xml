@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="build_system_for_android">Build system for Android?</string>
+    <string name="java">Java</string>
+    <string name="gradle">Gradle</string>
+    <string name="support_library">Support Library</string>
+    <string name="layout_for_databinding">Layout for databinding?</string>
+    <string name="which_are_viewgroups">Which are ViewGroups?</string>
+    <string name="constraintlayout"><![CDATA[<ConstraintLayout>]]></string>
+    <string name="layout"><![CDATA[<layout>]]></string>
+    <string name="linearlayout"><![CDATA[<LinearLayout>]]></string>
+    <string name="textview"><![CDATA[<TextView>]]></string>
+    <string name="databinding"><![CDATA[<databinding>]]></string>
+    <string name="data_binding"><![CDATA[<data-binding>]]></string>
+    <string name="quiz_image">Quiz image</string>
+    <string name="dagger">Dagger</string>
+    <string name="name_a_programming_language_that_lets_you_write_more_idiomatic_code_and_is_interoperable_with_java">Name a programming language that lets you write more idiomatic code for android, and is interoperable with Java!</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="submit">Submit</string>
+    <string name="clear_fields">Clear fields</string>
+</resources>
