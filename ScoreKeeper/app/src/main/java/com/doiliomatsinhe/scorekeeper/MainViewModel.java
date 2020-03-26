@@ -26,7 +26,6 @@ public class MainViewModel extends ViewModel {
     }
 
     public void incrementValueB(int score) {
-
         if (_teamBscore.getValue() != null) {
             _teamBscore.setValue(_teamBscore.getValue() + score);
         }
