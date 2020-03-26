@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.doiliomatsinhe.scorekeeper.MainViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+
+        <TextView
+            android:id="@+id/team_a_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/team_a"
+            android:textAlignment="center"
+            android:fontFamily="sans-serif-medium"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/team_a_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="56sp"
+            android:fontFamily="sans-serif-light"
+            android:text="@{viewModel.teamAscore.toString()}"
+            app:layout_constraintEnd_toEndOf="@+id/team_a_title"
+            app:layout_constraintStart_toStartOf="@+id/team_a_title"
+            app:layout_constraintTop_toBottomOf="@+id/team_a_title"
+            tools:text="@string/_0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_a_3_points"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            app:backgroundTint="@color/colorAccent"
+            android:onClick="@{() -> viewModel.incrementValueA(3)}"
+            android:text="@string/_3_points"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/team_a_score" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_a_2_points"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            app:backgroundTint="@color/colorAccent"
+            android:layout_marginEnd="16dp"
+            android:onClick="@{() -> viewModel.incrementValueA(2)}"
+            android:text="@string/_2_points"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/team_a_3_points" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_a_1_point"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            app:backgroundTint="@color/colorAccent"
+            android:layout_marginEnd="16dp"
+            android:onClick="@{() -> viewModel.incrementValueA(1)}"
+            android:text="@string/_1_point"
+            app:layout_constraintEnd_toStartOf="@+id/guideline"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/team_a_2_points" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.5" />
+
+
+        <TextView
+            android:id="@+id/team_b_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@string/team_b"
+            android:textColor="#616161"
+            android:fontFamily="sans-serif-medium"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/team_b_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="56sp"
+            android:text="@{viewModel.teamBscore.toString()}"
+            app:layout_constraintEnd_toEndOf="@+id/team_b_title"
+            app:layout_constraintStart_toStartOf="@+id/team_b_title"
+            app:layout_constraintTop_toBottomOf="@+id/team_a_title"
+            android:fontFamily="sans-serif-light"
+            tools:text="@string/_0" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_b_3_points"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:backgroundTint="@color/colorAccent"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:onClick="@{() -> viewModel.incrementValueB(3)}"
+            android:text="@string/_3_points"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline"
+            app:layout_constraintTop_toBottomOf="@+id/team_b_score" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_b_2_points"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            app:backgroundTint="@color/colorAccent"
+            android:onClick="@{() -> viewModel.incrementValueB(2)}"
+            android:text="@string/_2_points"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline"
+            app:layout_constraintTop_toBottomOf="@+id/team_b_3_points" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/team_b_1_point"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            app:backgroundTint="@color/colorAccent"
+            android:onClick="@{() -> viewModel.incrementValueB(1)}"
+            android:text="@string/_1_point"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/guideline"
+            app:layout_constraintTop_toBottomOf="@+id/team_b_2_points" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/button4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="64dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="64dp"
+            android:layout_marginBottom="32dp"
+            android:onClick="@{() -> viewModel.resetScore()}"
+            android:text="@string/reset_score"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/divider"
+            app:layout_constraintVertical_bias="1.0" />
+
+        <View
+            android:id="@+id/divider"
+            android:layout_width="1dp"
+            android:layout_height="320dp"
+            android:layout_marginTop="16dp"
+            android:background="@android:color/darker_gray"
+            app:layout_constraintEnd_toStartOf="@+id/team_b_2_points"
+            app:layout_constraintStart_toEndOf="@+id/team_a_2_points"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
