@@ -19,7 +19,7 @@
 
             <ImageView
                 android:id="@+id/track_image"
-                android:layout_width="wrap_content"
+                android:layout_width="0dp"
                 android:layout_height="@dimen/track_cover_height"
                 android:contentDescription="@string/track_image"
                 android:scaleType="centerCrop"
