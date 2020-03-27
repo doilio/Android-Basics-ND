@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="la_isla_bonita">La Isla Bonita</string>
+    <string name="madonna">Madonna</string>
+    <string name="track_image">Track Image</string>
+    <string name="back_button">Back button</string>
+    <string name="forward_button">forward button</string>
+    <string name="play_or_pause_button">Play or Pause Button</string>
+    <string name="tracks">Tracks</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="young_sistas">Young Sistas</string>
+    <string name="sai_pra_estrada">Sai pra estrada pita</string>
+    <string name="ta_se_a_matar">Tá-Se A Matar</string>
+    <string name="fly_away">Fly Away</string>
+    <string name="tas_a_ver">Tás a ver</string>
+    <string name="copo_vermelho">Copo Vermelho</string>
+    <string name="mentiras_da_verdade">Mentiras da verdade</string>
+    <string name="chines">Chinês</string>
+    <string name="nao_ouve_dizer">Não Ouve Dizer</string>
+    <string name="go_do_that">Go do that!</string>
+    <string name="vais_rochar">Vais Rochar</string>
+    <string name="djimetta">Djimetta</string>
+    <string name="bander">Bander</string>
+    <string name="radek">Radek</string>
+    <string name="obs">O.B.$</string>
+    <string name="young_ricardo"><![CDATA[Young Ricardo ft. Bander & CR Boy]]></string>
+    <string name="cr_boy">CR Boy</string>
+    <string name="azagaia">Azagaia</string>
+    <string name="dice_chines">Dice ft. Edwards</string>
+    <string name="ell_puto"><![CDATA[Ell Puto ft. Wazimbo, Roberto Chitsonzo Jr.,Blaze, Julia Duarte, Twenty Fingers, Anita Macuacua, Neyma, Ubakka, Hernâni & Laylizzy]]></string>
+    <string name="wazimbex">Wazimbex</string>
+    <string name="lizha_james_vais_rochar">Lizha James ft Anselmo Ralph</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium_dimension">16dp</dimen>
+    <dimen name="button_dimension">50dp</dimen>
+    <dimen name="large_dimension">32dp</dimen>
+    <dimen name="small_dimension">8dp</dimen>
+    <dimen name="track_cover_height">350dp</dimen>
+</resources>
