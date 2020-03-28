@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tour Guide.iml" filepath="$PROJECT_DIR$/Tour Guide.iml" group="Tour Guide" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Tour Guide/app" />
+    </modules>
+  </component>
+</project>

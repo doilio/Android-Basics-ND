@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.doiliomatsinhe.tourguide"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:5:5-25:19
+12        android:allowBackup="true"
+12-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\aebc0c2ac19aada9d3d0874067eb1625\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:12:9-14:66
+22            android:name="com.doiliomatsinhe.tourguide.ui.detail.DetailActivity"
+22-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:13:13-53
+23            android:parentActivityName="com.doiliomatsinhe.tourguide.ui.main.MainActivity" />
+23-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:14:13-63
+24        <activity
+24-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:15:9-24:20
+25            android:name="com.doiliomatsinhe.tourguide.ui.main.MainActivity"
+25-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:16:13-49
+26            android:label="@string/app_name"
+26-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:17:13-45
+27            android:theme="@style/AppTheme.NoActionBar" >
+27-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:18:13-56
+28            <intent-filter>
+28-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:20:17-69
+29-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:22:17-77
+31-->E:\Work\TourGuide\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[com.squareup.picasso:picasso:2.71828] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\f3448ac736e86676689ed3a297922428\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+36            android:name="com.squareup.picasso.PicassoProvider"
+36-->[com.squareup.picasso:picasso:2.71828] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\f3448ac736e86676689ed3a297922428\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+37            android:authorities="com.doiliomatsinhe.tourguide.com.squareup.picasso"
+37-->[com.squareup.picasso:picasso:2.71828] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\f3448ac736e86676689ed3a297922428\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+38            android:exported="false" />
+38-->[com.squareup.picasso:picasso:2.71828] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\f3448ac736e86676689ed3a297922428\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\ba673cffd64c1eb723f397666d5027d1\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\ba673cffd64c1eb723f397666d5027d1\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+41            android:authorities="com.doiliomatsinhe.tourguide.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\ba673cffd64c1eb723f397666d5027d1\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\ba673cffd64c1eb723f397666d5027d1\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\doili\.gradle\caches\transforms-2\files-2.1\ba673cffd64c1eb723f397666d5027d1\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+44    </application>
+45
+46</manifest>

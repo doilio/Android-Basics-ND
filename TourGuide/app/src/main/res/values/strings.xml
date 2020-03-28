@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Guia turístico</string>
+    <string name="hotels">Hotéis</string>
+    <string name="gyms">Ginásios</string>
+    <string name="content_image"  translatable="false">Content Image</string>
+
+    <!--Restaurants-->
+    <string name="gianni_ice_cream_parlor">Sorveteria Gianni</string>
+    <string name="gianni_store_image">Gianni Store Image</string>
+    <string name="location_icon" translatable="false">Location Icon</string>
+    <string name="polana_shopping_center_av_24_de_julho_maputo" translatable="false">Polana Shopping Center, Av. 24 de Julho, Maputo</string>
+    <string name="working_hours_icon" translatable="false">Working Hours Icon</string>
+    <string name="_7am_10pm" translatable="false">7AM - 10PM</string>
+    <string name="phone_number_icon" translatable="false">Phone Number Icon</string>
+    <string name="_258_82_124_8870" translatable="false">+258 82 124 8870</string>
+    <string name="website_icon" translatable="false">Website Icon</string>
+    <string name="description">Descrição</string>
+    <string name="description_text">Em 21 de fevereiro de 2004, a Sorveteria Gianni foi inaugurada no Polana Shopping Center, no centro da cidade. Nos últimos quase 10 anos, tornou-se a sorveteria mais famosa de Moçambique, produzindo seu sorvete à mão e usando os melhores produtos nacionais. Seus sabores são feitos com os sabores mais frescos e da mais alta qualidade na fabricação de sorvetes, mas também com cones, cestas, crepes e waffles e tudo o que oferecemos cuidadosamente aos nossos queridos, nossos clientes. Enquanto isso, Gianni cresceu e agora possui 2 lojas próprias e uma área de produção independente, merecendo também a confiança de vários restaurantes, hotéis e outros estabelecimentos que se tornaram pontos de venda de nossos produtos. A loja é moderna e, ao mesmo tempo, acolhedora, teremos um amplo terraço do lado de fora da loja do Polana Shopping, que será do agrado dos mais pequenos e dos pais. No interior, a decoração é moderna e colorida. Em 2008, abrimos a nossa loja no Maputo Shopping Center MBS.</string>
+    <string name="http_www_gianni_co_mz" translatable="false">http://www.gianni.co.mz/</string>
+    <string name="bar_1908" translatable="false">Bar Lounge 1908</string>
+    <string name="bar_1908_address" translatable="false">Esquina Av. Salvador Allende/ Eduardo Mondlane Maputo, Mozambique</string>
+    <string name="bar_1908_hours" translatable="false">6:00 PM - 2:30 AM</string>
+    <string name="bar_1908_site" translatable="false">https://www.instagram.com/1908barlounge</string>
+    <string name="bar_1908_description">Estamos abertos de terça a sábado a partir das 18h Localização: Cruzamento Av. Salvador Allende / Eduardo Mondlane</string>
+    <string name="bar_1908_phone" translatable="false">25887 021 1908</string>
+    <string name="el_patron" translatable="false">El Patron</string>
+    <string name="el_patron_address" translatable="false">Av. Julius Nyerere, N.794 Maputo, Mozambique</string>
+    <string name="el_patron_hours" translatable="false">12:00 PM - 12:00 AM</string>
+    <string name="el_patron_site" translatable="false">http://www.elpatron.co.mz</string>
+    <string name="el_patron_description" translatable="false">Restaurant Lounge</string>
+    <string name="el_patron_phone" translatable="false">25883 109 9999</string>
+    <string name="ficka" translatable="false">Ficka</string>
+    <string name="ficka_address" translatable="false">Rua Consiglieri Pedroso 181 Maputo, Mozambique</string>
+    <string name="ficka_hours" translatable="false">7:00 AM - 9:00 PM</string>
+    <string name="ficka_site" translatable="false">www.ficka.co.mz</string>
+    <string name="ficka_description">Venha visitar o nosso Restaurante / Café no encantador centro de Maputo. Servimos hambúrgueres, frango, saladas e Fika sueco. Com Wi-Fi grátis e vibrações incríveis!</string>
+    <string name="ficka_telephone" translatable="false">25884 135 0005</string>
+    <string name="kardapio" translatable="false">Kardapio Kaseiro</string>
+    <string name="kardapio_address" translatable="false">Av. 25 de Setembro N. 91 Maputo, Mozambique</string>
+    <string name="kardapio_hours" translatable="false">12:00 PM - 12:00 AM</string>
+    <string name="kardapio_site" translatable="false">www.kardapiokaseiro.co.mz</string>
+    <string name="kardapio_description">Deliciar-se de uma boa refeição é bom.... mas estar bem acompanhado enquanto o faz é melhor ainda.\n\nVenha passar momentos agradaveis e deliciar de sabores únicos e inesquecíveis no Kardápio Kaseiro.\n\nO mais novo restaurante da cidade, com sabores para o seu gosto e paladar.</string>
+    <string name="kardapio_phone" translatable="false">+25884 10 74 766</string>
+    <string name="backyard" translatable="false">Backyard MZ</string>
+    <string name="backyard_address" translatable="false">Marien Nguabi Maputo, Mozambique</string>
+    <string name="backyard_hours" translatable="false">10h:00 as +21:00</string>
+    <string name="backyard_site" translatable="false">www.backyard.co.mz</string>
+    <string name="backyard_description">Situamo-nos na esquina com Albert Lithuli na Zona do estrela próximo ao Amasp ao/Escolinha Moranguinho Maputo</string>
+    <string name="backyard_phone" translatable="false">25884 284 3254</string>
+    <string name="southbeach" translatable="false">SouthBeach</string>
+    <string name="southbeach_address" translatable="false">Avenida Marginal Maputo, Mozambique</string>
+    <string name="southbeach_site" translatable="false">www.southbeach.co.mz</string>
+    <string name="southbeach_description">O south beach veio trazer uma mudança no paradigma actual de eventos e entretenimento. Um espaço</string>
+    <string name="southbeach_phone" translatable="false">25882 325 5120</string>
+    <string name="farol" translatable="false">O Farol</string>
+    <string name="farol_address">Praia da Katembe Catembe, Maputo, Mozambique</string>
+    <string name="farol_hours" translatable="false">7:00 AM - 10:00 PM</string>
+    <string name="farol_site" translatable="false">www.farol.co.mz</string>
+    <string name="farol_description">O Farol localiza-se na Praia da Catembe a 500m da ponte da atravessia.</string>
+    <string name="farol_phone" translatable="false">25882 391 5710</string>
+    <string name="moztacho" translatable="false">MozTacho</string>
+    <string name="moztacho_address" translatable="false">Av. 24 de Julho, Maputo</string>
+    <string name="moztacho_hours" translatable="false">7:00 AM - 10:00 PM</string>
+    <string name="moztacho_site" translatable="false">http://www.moztacho.com</string>
+    <string name="moztacho_description">A MozTacho tem como missão Inspirar e conectar pessoas através de comida saudável, encapsulada em sabores, hábitos e cultura moçambicana</string>
+    <string name="moztacho_phone" translatable="false">25882 192 4200</string>
+    <string name="radisson" translatable="false"><![CDATA[Radisson Blu Hotel & Residence]]></string>
+    <string name="radisson_address" translatable="false">Avenida Marginal 141 Maputo, 1100</string>
+    <string name="hours_always_open">Sempre Aberto</string>
+    <string name="radisson_site" translatable="false">https://www.radissonhotels.com/</string>
+    <string name="radisson_description">Do outro lado da rua de uma praia no Oceano Índico, este elegante hotel fica a 5 km do Museu Nacional de Arte e a 7 km do Aeroporto Internacional de Maputo.</string>
+    <string name="radisson_phone" translatable="false">21 242 400</string>
+    <string name="polana" translatable="false">Polana Serena Hotel</string>
+    <string name="polana_address" translatable="false">1380 Av. Julius Nyerere, Maputo</string>
+    <string name="polana_site" translatable="false">https://www.serenahotels.com/</string>
+    <string name="polana_description">Situado num edifício histórico em estilo Palazzo de 1922, com vista para a Baía de Maputo, este imponente hotel fica a 7 km do Aeroporto Internacional de Maputo e a 2 km do coletivo de artistas Núcleo de Arte.</string>
+    <string name="polana_phone" translatable="false">21 241 700</string>
+    <string name="cardoso" translatable="false">Cardoso Hotel</string>
+    <string name="cardoso_address" translatable="false">707 Avenida dos Mártires de Mueda, Maputo</string>
+    <string name="cardoso_site" translatable="false">https://www.cardoso-hotel.com/</string>
+    <string name="cardoso_description">Com vista para a Baía de Maputo, este sofisticado hotel em um edifício da década de 1920 fica a 2 minutos a pé do popular Museu de História Natural, a 2 km da famosa Fortaleza de Maputo do século XVIII e a 8 km do Aeroporto Internacional de Maputo.  Os quartos refinados oferecem Wi-Fi e telas planas, além de comodidades para fazer chá e café. Os quartos com upgrade incluem varandas com vista para a baía, enquanto as suítes possuem salas de estar. O serviço de quarto está disponível 24/7.  Um serviço de traslado local é de cortesia. Há um café rústico, um bar animado e um restaurante ao ar livre com vista para a baía. Outras comodidades incluem piscina externa e uma academia com personal trainers. O café da manhã está disponível.</string>
+    <string name="cardoso_phone" translatable="false">84 491 0710</string>
+    <string name="cfm_description">A primeira estação ferroviária de Maputo, então conhecida como Lourenço Marques, era uma estrutura modesta, construída em madeira e zinco, e inaugurada em 1895 por Paul Kruger, Presidente da República da África do Sul. Planeja construir a atual estação ferroviária para substituir a antiga data de 1904. Os Caminhos de Ferro de Moçambique, a agência paraestatal que supervisiona as ferrovias em Moçambique português, incluíram US $ 400.000 em seu orçamento de 1906 a 1907 para a construção da nova estação. Os planos iniciais foram elaborados por Mario Veiga, arquiteto do governo na Diretoria de Obras Públicas, junto com Alfredo Augusto Lisboa de Lima. Em 1906, os planos e o orçamento foram enviados ao governo português em Lisboa para aprovação. Lá, foram feitas mudanças significativas nos planos. Os planos finais previam um edifício inspirado arquitetonicamente no terminal principal de Joanesburgo, mas com uma fachada maior.</string>
+    <string name="cfm_location" translatable="false">Maputo, Mozambique</string>
+    <string name="catedral">Catedral de Nossa Senhora da Imaculada Conceição</string>
+    <string name="praca_location" translatable="false">Maputo, Mozambique</string>
+    <string name="praca">Praça da Independência</string>
+    <string name="catedral_description">A Catedral de Nossa Senhora da Imaculada Conceição (em português: Catedral de Nossa Senhora da Imaculada Conceição) é uma catedral católica romana no centro de Maputo, capital de Moçambique. A catedral está localizada na Praça da Independência, ao lado do Hotel Rovuma e da Prefeitura de Maputo. É dedicado a Nossa Senhora da Imaculada Conceição. A pedra fundamental da construção da igreja foi lançada em 28 de junho de 1936 e está localizada dentro do narthex e inscrita pelo Bispo de Moçambique e Cabo Verde, D. Rafael Maria da Asunção. A construção da catedral foi concluída em 1944. \n\n A catedral foi projetada pelo engenheiro civil português Marcial Simões de Freitas e Costa, então diretor ferroviário. Ele projetou a igreja pro bono para a Arquidiocese de Lourenço Marques. Freitas foi inspirado no estilo simples e nos materiais de construção da construção de igrejas na Europa da época; a catedral foi finalmente construída de concreto e cimento. Ele foi inspirado em edifícios como a Notre-Dame du Raincy em Le Raincy (1921-1923) por Auguste Perret e Igreja de Nossa Senhora de Fátima (1934-1938) em Lisboa, construída por Pardal Monteiro. A simplicidade e a escolha de novos materiais também foram resultado de problemas financeiros do período.</string>
+    <string name="praca_description">A Praça da Independência é uma praça pública e ponto focal de Maputo, Moçambique. Foi construída pelos portugueses como Praça Mouzinho de Albuquerque e foi dominada por uma estátua de Mouzinho de Albuquerque, ex-governador geral de Moçambique Português. A estátua de Mouzinho a cavalo foi inaugurada em 1940.</string>
+    <string name="catedral_location" translatable="false">Maputo, Mozambique</string>
+    <string name="places">Lugares</string>
+    <string name="restaurants">"Restaurantes "</string>
+    <string name="cfm">Estação Ferroviária de Maputo</string>
+    <string name="southbeach_hours">Sempre Aberto</string>
+    <string name="universo" translatable="false">Ginásio Universo</string>
+    <string name="universo_location" translatable="false">1098 Av. 24 de Julho, Maputo</string>
+    <string name="universo_time" translatable="false">8AM - 2PM</string>
+    <string name="universo_description">Boa academia, mesmo quando está cheia, há máquinas suficientes para todos, personal trainers competentes e chuveiros agradáveis</string>
+    <string name="universo_site" translatable="false">https://www.facebook.com/GinasioUniverso/</string>
+    <string name="universo_numero" translatable="false">21 301 429</string>
+
+</resources>

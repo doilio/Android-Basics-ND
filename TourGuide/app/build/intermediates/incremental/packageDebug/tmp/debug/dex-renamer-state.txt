@@ -1,0 +1,7 @@
+#Sat Mar 28 11:45:56 CAT 2020
+base.0=E\:\\Work\\TourGuide\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Work\\TourGuide\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

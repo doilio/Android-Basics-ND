@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="catedral_description">The Cathedral of Our Lady of the Immaculate Conception (Portuguese language: Catedral de Nossa Senhora da Imaculada Conceição) is a Roman Catholic cathedral in downtown Maputo, the capital of Mozambique. The cathedral is located on Praça da Independência (Independence Square) next to Hotel Rovuma and Maputo City Hall. It is dedicated to Our Lady of the Immaculate Conception. The foundation stone for the construction of the church was laid on June 28, 1936, and is located inside the narthex and inscribed by the Bishop of Mozambique and Cape Verde, D. Rafael Maria da Asunção. Construction on the cathedral was completed in 1944.\n\nThe cathedral was designed by the Portuguese civil engineer Marcial Simões de Freitas e Costa, then a railway director. He designed the church pro bono for the Archdiocese of Lourenço Marques. Freitas was inspired by the simple style and building materials of church construction in Europe of the time; the cathedral was ultimately built of concrete and cement. He was inspired to buildings such as the Notre-Dame du Raincy in Le Raincy (1921-1923) by Auguste Perret and Igreja de Nossa Senhora de Fátima (1934-1938) in Lisbon, built by Pardal Monteiro. The simplicity and the choice of new materials was also a result of financial problems of the period. </string>
+    <string name="praca_description">Praça da Independência is a public square and focal point of Maputo, Mozambique. It was built by the Portuguese as Praça Mouzinho de Albuquerque and was dominated by a statue of Mouzinho de Albuquerque, the former governor-general of Portuguese Mozambique. The statue of Mouzinho on horseback was inaugurated in 1940.</string>
+
+    <string name="gyms">Gymnasiums</string>
+    <string name="cfm_description">The first train station in Maputo, then known as Lourenço Marques, was a modest structure, built of wood and zinc, and inaugurated in 1895 by Paul Kruger, President of the South African Republic. Plans to construct the current railway station to replace the old one date to 1904. The Caminhos de Ferro de Moçambique, the parastatal agency overseeing railroads in Portuguese Mozambique, included $400,000 in its 1906–1907 budget for the construction of the new station. Initial plans were drawn up by Mario Veiga, a government architect at the Directorate of Public Works, along with Alfredo Augusto Lisboa de Lima. In 1906, the plans and budget were sent to the Portuguese government in Lisbon for approval. There, significant changes to the plans were made. The final plans provided for a building that was architecturally inspired by the main terminus in Johannesburg, but with a grander facade.</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="universo_description">Nice gym, even when it’s full there’s enough machines for everyone, competent personal trainers and nice showers</string>
+    <string name="places">Places</string>
+    <string name="app_name">"Tour Guide "</string>
+    <string name="hotels">Hotels</string>
+    <string name="description">Description</string>
+    <string name="catedral">Cathedral of Our Lady of the Immaculate Conception</string>
+    <string name="cfm">Maputo Railway Station</string>
+    <string name="cardoso_description">Overlooking Maputo Bay, this sophisticated hotel in a 1920s building is a 2-minute walk from the popular Museu de Historia Natural, 2 km from the storied 18th-century Fortress of Maputo and 8 km from Maputo International Airport.</string>
+    <string name="polana_description">Set in a historic 1922 Palazzo style building overlooking Maputo Bay, this stately hotel is 7 km from Aeroporto Internacional de Maputo and 2 km from the artists\' collective Núcleo de Arte.</string>
+    <string name="hours_always_open">Always Open</string>
+    <string name="southbeach_hours">Come spend pleasant moments and delight in unique and unforgettable flavors at Kardápio Kaseiro.</string>
+    <string name="radisson_description">Across the street from a beach on the Indian Ocean, this elegant hotel is 5 km from the National Museum of Art and 7 km from Maputo International Airport.</string>
+    <string name="moztacho_description">MozTacho\'s mission is to inspire and connect people through healthy food, encapsulated in flavors, habits and Mozambican culture</string>
+    <string name="farol_description">The lighthouse is located at Praia da Catembe, 500m from the bridge.</string>
+    <string name="farol_address">The newest restaurant in town, with flavors for your taste and taste.</string>
+    <string name="kardapio_description">Enjoying a good meal is good ... but being well accompanied while doing it is even better.</string>
+    <string name="southbeach_description">The south beach has brought about a change in the current paradigm of events and entertainment. A space</string>
+    <string name="backyard_description">We are located on the corner with Albert Lithuli in the Zona da Estrela next to Amasp ao / Escolinha Moranguinho Maputo</string>
+    <string name="ficka_description">Come and visit our Restaurant/Cafe in the lovely downtown of Maputo. We serve burgers, chicken, salads and Swedish Fika. With Free Wifi and amazing vibes!</string>
+    <string name="bar_1908_description">We are open from Tuesday to Saturday from 18h Location: Cruzamento Av. Salvador Allende / Eduardo Mondlane</string>
+    <string name="gianni_store_image">Gianni Store Image</string>
+
+    <string name="praca">Maputo Independence Square</string>
+    <string name="gianni_ice_cream_parlor">Gianni Ice Cream Parlor</string>
+    <string name="description_text">On February 21, 2004, Sorveteria Gianni opened at Polana Shopping Center in the city center. In the past almost 10 years, it has become the most famous ice cream shop in Mozambique, producing its ice cream by hand and using the best national products. Its flavors are made from the freshest flavors and of the highest quality in the making of ice cream, but also from cones, baskets, crepes and waffles and everything we carefully offer to our dearest, our customers. Meanwhile, Gianni has grown and now has 2 own stores and an independent production area, also deserving of the trust of several restaurants, hotels and other establishments that have become sales points for our products. The store is modern and, at the same time, welcoming, we will have a wide terrace outside the store of Polana Shopping, which will be to the liking of the little ones and parents certainly. Inside, the decor is modern and colorful. In 2008, we opened our store at Maputo Shopping Center MBS.</string>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context=".ui.detail.DetailActivity">
+
+            <ImageView
+                android:id="@+id/content_cover"
+                android:layout_width="0dp"
+                android:layout_height="300dp"
+                android:contentDescription="@string/gianni_store_image"
+                android:scaleType="centerCrop"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/gianni" />
+
+            <TextView
+                android:id="@+id/content_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:text="@string/gianni_ice_cream_parlor"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="@dimen/text_large"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_cover" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guidelineLeft"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_begin="@dimen/margin_medium" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guidelineRight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_end="@dimen/margin_medium" />
+
+            <ImageView
+                android:id="@+id/location_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:contentDescription="@string/location_icon"
+                app:layout_constraintEnd_toStartOf="@+id/content_location"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_name"
+                app:srcCompat="@drawable/ic_location_on_black_24dp" />
+
+            <TextView
+                android:id="@+id/content_location"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_small"
+                android:text="@string/polana_shopping_center_av_24_de_julho_maputo"
+                android:textSize="@dimen/text_normal"
+                app:layout_constraintBottom_toBottomOf="@+id/location_icon"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toEndOf="@+id/location_icon"
+                app:layout_constraintTop_toTopOf="@+id/location_icon" />
+
+            <ImageView
+                android:id="@+id/hours_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:contentDescription="@string/working_hours_icon"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_location"
+                app:srcCompat="@drawable/ic_access_time_black_24dp" />
+
+            <TextView
+                android:id="@+id/content_hours"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_small"
+                android:text="@string/_7am_10pm"
+                app:layout_constraintBottom_toBottomOf="@+id/hours_icon"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toEndOf="@+id/hours_icon"
+                app:layout_constraintTop_toTopOf="@+id/hours_icon" />
+
+            <ImageView
+                android:id="@+id/telephone_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:contentDescription="@string/phone_number_icon"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_hours"
+                app:srcCompat="@drawable/ic_local_phone_black_24dp" />
+
+            <TextView
+                android:id="@+id/content_telephone"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_small"
+                android:text="@string/_258_82_124_8870"
+                app:layout_constraintBottom_toBottomOf="@+id/telephone_icon"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toEndOf="@+id/telephone_icon"
+                app:layout_constraintTop_toTopOf="@+id/telephone_icon" />
+
+            <ImageView
+                android:id="@+id/website_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:contentDescription="@string/website_icon"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_telephone"
+                app:srcCompat="@drawable/ic_public_black_24dp" />
+
+            <TextView
+                android:id="@+id/content_website"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_small"
+                android:autoLink="web"
+                android:text="@string/http_www_gianni_co_mz"
+                app:layout_constraintBottom_toBottomOf="@+id/website_icon"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toEndOf="@+id/website_icon"
+                app:layout_constraintTop_toTopOf="@+id/website_icon" />
+
+            <TextView
+                android:id="@+id/description_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:text="@string/description"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="@dimen/text_medium"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/content_website" />
+
+            <TextView
+                android:id="@+id/content_description"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:layout_marginBottom="@dimen/margin_medium"
+                android:text="@string/description_text"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/guidelineRight"
+                app:layout_constraintStart_toStartOf="@+id/guidelineLeft"
+                app:layout_constraintTop_toBottomOf="@+id/description_title" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</layout>

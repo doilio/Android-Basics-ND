@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_radisson.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\radisson.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_backyard.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\backyard.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_phone_black_24dp.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_local_phone_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_public_black_24dp.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_public_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_universo.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\universo.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_universo.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\universo.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_moztacho.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\moztacho.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_gianni.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\gianni.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_praca.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\praca.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_moztacho.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\moztacho.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gianni.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\gianni.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mil.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\mil.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backyard.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\backyard.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ofarol.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\ofarol.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cardoso.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\cardoso.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_praca.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\praca.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_universo.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\universo.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_universo.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\universo.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ofarol.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\ofarol.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gianni.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\gianni.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_el_patron.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\el_patron.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cfm.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\cfm.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_main.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mil.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\mil.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_praca.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\praca.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_polana.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\polana.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cfm.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\cfm.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_kardapiokaseiro.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\kardapiokaseiro.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ficka.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\ficka.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cathedral.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\cathedral.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_polana.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\polana.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_praca.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\praca.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cfm.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\cfm.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_southbeach.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\southbeach.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ficka.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\ficka.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_southbeach.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\southbeach.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_el_patron.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\el_patron.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_kardapiokaseiro.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\kardapiokaseiro.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ficka.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\ficka.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_praca.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\praca.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_southbeach.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\southbeach.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cfm.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\cfm.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cathedral.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\cathedral.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_southbeach.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\southbeach.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_radisson.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\radisson.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ofarol.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\ofarol.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_kardapiokaseiro.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\kardapiokaseiro.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_polana.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\polana.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ficka.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\ficka.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\layout\\content_item.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cardoso.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\cardoso.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_southbeach.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\southbeach.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_list.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\layout\\content_list.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cathedral.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\cathedral.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backyard.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\backyard.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_radisson.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\radisson.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mil.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\mil.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mil.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\mil.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cathedral.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\cathedral.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_kardapiokaseiro.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\kardapiokaseiro.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_black_24dp.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_location_on_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_polana.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\polana.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ficka.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\ficka.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_universo.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\universo.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_kardapiokaseiro.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\kardapiokaseiro.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_moztacho.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\moztacho.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_gianni.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\gianni.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_radisson.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\radisson.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_gianni.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\gianni.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backyard.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\backyard.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_el_patron.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\el_patron.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mil.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\mil.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cardoso.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\cardoso.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ofarol.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\ofarol.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ofarol.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\ofarol.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backyard.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\backyard.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_moztacho.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\moztacho.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_el_patron.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\el_patron.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cfm.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxxhdpi\\cfm.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_radisson.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\radisson.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_access_time_black_24dp.xml.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_polana.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-hdpi\\polana.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_el_patron.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xxhdpi\\el_patron.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cardoso.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\cardoso.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_moztacho.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\moztacho.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cardoso.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-xhdpi\\cardoso.jpg"
+    },
+    {
+        "merged": "E:\\Work\\TourGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cathedral.jpg.flat",
+        "source": "E:\\Work\\TourGuide\\app\\src\\main\\res\\drawable-mdpi\\cathedral.jpg"
+    }
+]
