@@ -93,7 +93,7 @@ The required components for this project are:
 * The intent of this project is to give you practice writing raw Java code using the necessary classes provided by the Android framework; therefore, the use of external libraries for the core functionality will not be permitted to complete this project.
 
 
-![device-2020-03-29-143634](https://user-images.githubusercontent.com/38020305/77850204-228d2380-71d1-11ea-8d21-f54bd2e51da4.png)
-![device-2020-03-29-143404](https://user-images.githubusercontent.com/38020305/77850198-1d2fd900-71d1-11ea-8675-591568051055.png)
-![device-2020-03-29-143531](https://user-images.githubusercontent.com/38020305/77850201-202ac980-71d1-11ea-9daa-1f411842660e.png)
+![device-2020-03-29-143404](https://user-images.githubusercontent.com/38020305/77861631-59395d00-7216-11ea-936c-9f9667a49a61.png)
+![device-2020-03-29-232902](https://user-images.githubusercontent.com/38020305/77861634-5ccce400-7216-11ea-9ec1-a5830c06c50a.png)
+![device-2020-03-29-233154](https://user-images.githubusercontent.com/38020305/77861635-5e96a780-7216-11ea-9e68-60125a34a7e8.png)
 
