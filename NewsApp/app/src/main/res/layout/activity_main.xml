@@ -15,8 +15,13 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <include
-            android:id="@+id/exceptions"
+            android:id="@+id/exception"
             layout="@layout/exceptions"
+            android:visibility="gone"/>
+
+        <include
+            android:id="@+id/exception2"
+            layout="@layout/exceptions2"
             android:visibility="gone"/>
 
         <androidx.swiperefreshlayout.widget.SwipeRefreshLayout

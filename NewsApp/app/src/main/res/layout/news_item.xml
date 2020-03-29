@@ -52,6 +52,19 @@
                 tools:text="@string/news_title_text" />
 
             <TextView
+                android:id="@+id/news_author"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_big"
+                android:layout_marginEnd="@dimen/margin_big"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:textAlignment="textEnd"
+                android:textAppearance="@style/TextAppearance.MaterialComponents.Body2"
+                android:textColor="@color/colorPrimaryDark"
+                android:textStyle="bold"
+                tools:text="@string/list_authors" />
+            <TextView
                 android:id="@+id/news_date"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

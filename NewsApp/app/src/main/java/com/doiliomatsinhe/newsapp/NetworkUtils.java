@@ -17,7 +17,9 @@ class NetworkUtils {
     private static final String TAG = NetworkUtils.class.getSimpleName();
     private static final String BASE_URL = "https://content.guardianapis.com/search?";
     private static final String QUERY_PARAM = "q";
+    private static final String SHOW_TAGS = "show-tags";
     private static final String API_KEY = "api-key";
+    private static final String SECTION = "section";
     private static final String GET = "GET";
 
 
@@ -36,7 +38,9 @@ class NetworkUtils {
         try {
             Uri buildString = Uri.parse(BASE_URL).buildUpon()
                     .appendQueryParameter(QUERY_PARAM, queryString)
+                    .appendQueryParameter(SHOW_TAGS, "contributor")
                     .appendQueryParameter(API_KEY, "test")
+                    .appendQueryParameter(SECTION, "politics")
                     .build();
 
             URL requestURL = new URL(buildString.toString());
@@ -45,16 +49,22 @@ class NetworkUtils {
             urlConnection.setRequestMethod(GET);
             urlConnection.connect();
 
-            InputStream inputStream = urlConnection.getInputStream();
-            reader = new BufferedReader(new InputStreamReader(inputStream));
-            StringBuilder builder = new StringBuilder();
 
-            String line;
-            while ((line = reader.readLine()) != null) {
-                builder.append(line);
+            if (urlConnection.getResponseCode() == 200) {
+                InputStream inputStream = urlConnection.getInputStream();
+                reader = new BufferedReader(new InputStreamReader(inputStream));
+                StringBuilder builder = new StringBuilder();
+
+                String line;
+                while ((line = reader.readLine()) != null) {
+                    builder.append(line);
+                }
+                Log.d(TAG, "Error: " + urlConnection.getResponseCode());
+                newsJSON = builder.toString();
+            } else {
+                Log.d(TAG, "Error: " + urlConnection.getResponseCode());
             }
 
-            newsJSON = builder.toString();
         } catch (IOException e) {
             e.printStackTrace();
         } finally {

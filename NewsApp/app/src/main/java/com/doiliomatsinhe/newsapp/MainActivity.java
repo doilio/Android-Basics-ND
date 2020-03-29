@@ -9,15 +9,11 @@ import androidx.loader.content.Loader;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
-import android.content.Context;
 import android.content.Intent;
-import android.net.ConnectivityManager;
-import android.net.NetworkInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.Toast;
 
 import com.doiliomatsinhe.newsapp.databinding.ActivityMainBinding;
 
@@ -94,24 +90,12 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
      */
     private void retrieveData() {
         binding.swipeRefreshNews.setRefreshing(true);
-        String queryString = "sport";
+        String queryString = "debates";
 
-        ConnectivityManager connectivityManager = (ConnectivityManager) getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
+        Bundle queryBundle = new Bundle();
+        queryBundle.putString(QUERY, queryString);
+        LoaderManager.getInstance(this).restartLoader(LOADER_ID, queryBundle, this);
 
-        if (networkInfo != null && networkInfo.isConnected()) {
-
-            Bundle queryBundle = new Bundle();
-            queryBundle.putString(QUERY, queryString);
-            LoaderManager.getInstance(this).restartLoader(LOADER_ID, queryBundle, this);
-
-        } else {
-            if (queryString.length() != 0) {
-                // Check your Network
-                Toast.makeText(this, R.string.check_internet, Toast.LENGTH_SHORT).show();
-                binding.swipeRefreshNews.setRefreshing(false);
-            }
-        }
     }
 
     /**
@@ -137,6 +121,10 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         newsList = new ArrayList<>();
         // Fazer Parse do JSON
         try {
+            if (data == null) {
+                noInternetLayout();
+                return;
+            }
             JSONObject jsonObject = new JSONObject(data);
             JSONObject response = jsonObject.getJSONObject(RESPONSE);
             JSONArray results = response.getJSONArray(RESULTS);
@@ -151,8 +139,22 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
                 String webPublicationDate = news.getString(WEB_PUBLICATION_DATE);
                 String webUrl = news.getString(WEB_URL);
 
+                JSONArray tags = news.getJSONArray("tags");
+                StringBuilder authors = new StringBuilder();
+                for (int j = 0; j < tags.length(); j++) {
+                    JSONObject tag = tags.getJSONObject(j);
+                    String author = tag.getString("webTitle");
+                    authors.append(author);
+                    authors.append(", ");
+                }
+                // if there is an author remove the last comma
+                String author = "";
+                if (authors.length() > 1) {
+                    author = authors.substring(0, authors.length() - 2);
+                }
+
                 //Add to ArrayList
-                newsList.add(new News(webTitle, sectionName, webPublicationDate, webUrl));
+                newsList.add(new News(webTitle, sectionName, webPublicationDate, webUrl, author));
             }
             adapter.set(newsList);
             if (newsList.isEmpty()) {
@@ -170,14 +172,25 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         }
     }
 
+    private void noInternetLayout() {
+
+        binding.swipeRefreshNews.setRefreshing(false);
+        binding.recyclerNews.setVisibility(View.GONE);
+        binding.exception.setVisibility(View.GONE);
+        binding.exception2.setVisibility(View.VISIBLE);
+    }
+
     private void showEmptyLayout() {
         binding.recyclerNews.setVisibility(View.GONE);
-        binding.exceptions.setVisibility(View.VISIBLE);
+        binding.exception2.setVisibility(View.GONE);
+        binding.exception.setVisibility(View.VISIBLE);
     }
 
     private void showNews() {
-        binding.exceptions.setVisibility(View.GONE);
+        binding.exception.setVisibility(View.GONE);
+        binding.exception2.setVisibility(View.GONE);
         binding.recyclerNews.setVisibility(View.VISIBLE);
+
     }
 
     @Override

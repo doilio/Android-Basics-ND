@@ -22,7 +22,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
 
 
     public static class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
-        private TextView title, section, date;
+        private TextView title, section, date, author;
         private OnNewsListener listener;
 
         private MyViewHolder(@NonNull View itemView, OnNewsListener listener) {
@@ -30,6 +30,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
             title = itemView.findViewById(R.id.news_title);
             section = itemView.findViewById(R.id.news_section);
             date = itemView.findViewById(R.id.news_date);
+            author = itemView.findViewById(R.id.news_author);
             this.listener = listener;
             itemView.setOnClickListener(this);
         }
@@ -38,6 +39,12 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
             title.setText(news.getTitle());
             section.setText(news.getSection());
             date.setText(news.getDate());
+            if (news.getAuthor().isEmpty()) {
+                author.setVisibility(View.GONE);
+            } else {
+                author.setText(news.getAuthor());
+            }
+
         }
 
         @Override
