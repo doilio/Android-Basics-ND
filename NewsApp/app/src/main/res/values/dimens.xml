@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="margin_normal">8dp</dimen>
+    <dimen name="news_image_height">140dp</dimen>
+    <dimen name="margin_big">16dp</dimen>
+</resources>
