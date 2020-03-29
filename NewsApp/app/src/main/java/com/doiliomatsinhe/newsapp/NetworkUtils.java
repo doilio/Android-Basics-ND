@@ -15,7 +15,7 @@ class NetworkUtils {
 
     // Constants
     private static final String TAG = NetworkUtils.class.getSimpleName();
-    private static final String BASE_URL = "http://content.guardianapis.com/search?";
+    private static final String BASE_URL = "https://content.guardianapis.com/search?";
     private static final String QUERY_PARAM = "q";
     private static final String API_KEY = "api-key";
     private static final String GET = "GET";
